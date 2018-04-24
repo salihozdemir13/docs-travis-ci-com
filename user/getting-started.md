@@ -1,7 +1,6 @@
 ---
 title: Getting started
 layout: en
-
 ---
 
 This is a very short guide to using Travis CI with your GitHub hosted code repository.
